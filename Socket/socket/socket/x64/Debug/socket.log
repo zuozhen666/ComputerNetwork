@@ -1,0 +1,8 @@
+﻿  zuozhen_server.cpp
+d:\hust-life\2020秋季\计算机网络\cs1804_u201814596_左振\socket\socket\socket\zuozhen_server.cpp(71): warning C4477: “sscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+  d:\hust-life\2020秋季\计算机网络\cs1804_u201814596_左振\socket\socket\socket\zuozhen_server.cpp(71): note: 此参数用作缓冲区大小
+d:\hust-life\2020秋季\计算机网络\cs1804_u201814596_左振\socket\socket\socket\zuozhen_server.cpp(101): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\hust-life\2020秋季\计算机网络\cs1804_u201814596_左振\socket\socket\socket\zuozhen_server.cpp(104): warning C4244: “参数”: 从“std::streamsize”转换到“int”，可能丢失数据
+d:\hust-life\2020秋季\计算机网络\cs1804_u201814596_左振\socket\socket\socket\zuozhen_server.cpp(119): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\hust-life\2020秋季\计算机网络\cs1804_u201814596_左振\socket\socket\socket\zuozhen_server.cpp(123): warning C4244: “参数”: 从“std::streamsize”转换到“int”，可能丢失数据
+  socket.vcxproj -> D:\HUST-LIFE\2020秋季\计算机网络\CS1804_U201814596_左振\Socket\socket\x64\Debug\socket.exe

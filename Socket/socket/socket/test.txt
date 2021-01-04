@@ -1,0 +1,4 @@
+txt document testing successfully.
+666
+success!
+HUST
